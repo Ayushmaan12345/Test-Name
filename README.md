@@ -1,2 +1,2 @@
 # Test-Name
-Test namr repo
+Test namr repo for git commands
